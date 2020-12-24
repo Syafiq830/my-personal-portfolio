@@ -1,0 +1,48 @@
+body
+    {
+    	background-color:darksalmon;
+    }
+
+h1
+    {
+    	background-color:aquamarine;
+    font-family:'langar', cursive;
+    font-size: 40px;
+    color: black;
+    border: solid;
+    }
+
+h2
+    {
+    	background-color:darkorange;
+    font-family:'langar' , cursive;
+    font-size: 30px;
+    color: black;
+    border: solid;
+    }
+
+p
+    {
+    	background-color:gold;
+    font-family:'sofia' , cursive;
+    font-size: 20px;
+    color: black;
+    border: solid;
+    }
+
+a:link, a:visited
+    {
+    background-color: black;
+    color: cyan;
+    text-allign: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 25px;
+    padding: 15px;
+    }
+
+a:hover, a:active
+    {
+    	background-color: firebrick;
+    	color: black;
+    }
